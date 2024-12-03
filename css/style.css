@@ -20,7 +20,7 @@ body {
     border: 1px solid #ddd;
     padding: 5px;
     text-align: left;
-    font-size: 18px;
+    font-size: 17px;
 
 }
 
@@ -110,7 +110,7 @@ button{
   padding: 8px 12px;
   border-radius: 5px;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 15px;
   width: auto; 
   white-space: nowrap; 
 }
