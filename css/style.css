@@ -15,7 +15,8 @@ body {
 }
 
 #chatbox {
-    height: 480px;
+    max-height: 480px;
+    height: 90%;
     overflow-y: scroll;
     border: 1px solid #ddd;
     padding: 5px;
