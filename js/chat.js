@@ -10,7 +10,7 @@ async function sendMessage() {
         input.value = '';
 
         try {
-            const response = await fetch('http://localhost:5000/chat', {
+            const response = await fetch('https://8a3b-101-255-123-126.ngrok-free.app/chat', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
